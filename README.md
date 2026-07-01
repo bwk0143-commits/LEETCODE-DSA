@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
