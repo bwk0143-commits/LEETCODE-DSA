@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -57,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
