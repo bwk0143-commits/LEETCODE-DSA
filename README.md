@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 ## Math
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
