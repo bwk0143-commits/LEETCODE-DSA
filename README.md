@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
