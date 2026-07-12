@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
