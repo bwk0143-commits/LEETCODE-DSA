@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
