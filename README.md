@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3620-network-recovery-pathways) |
@@ -76,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -155,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0242-valid-anagram) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
