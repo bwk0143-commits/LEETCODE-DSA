@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
