@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
