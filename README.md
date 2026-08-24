@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -307,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/bwk0143-commits/LEETCODE-DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
